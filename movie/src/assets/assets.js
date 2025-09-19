@@ -1,5 +1,5 @@
 import logo from "./logo.png";
-import disneyLogo from "./DisneyLogo.svg"; // sửa lại chữ d thường
+import disneyLogo from "./Disneylogo.svg"; // match exact filename casing
 import googlePlay from "./googlePlay.svg";
 import appStore from "./appStore.svg";
 import screenImage from "./screenImage.svg";
